@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Aplikasi GitHub User (Navigation dan API)</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="username">Username</string>
+    <string name="nama_user">Nama user</string>
+    <string name="username_following">Username following</string>
+    <string name="nama_following">Nama following</string>
+    <string name="username_follower">Username follower</string>
+    <string name="nama_follower">Nama follower</string>
+    <string name="nama">nama</string>
+    <string name="company">Perusahaan</string>
+    <string name="address">Alamat</string>
+    <string name="blog">Blog</string>
+    <string name="tab_text_following">Following</string>
+    <string name="tab_text_follower">Follower</string>
+    <string name="search">Search</string>
+    <string name="first_message">Halo, silahkan cari namanya ya, aku gak tahu namamu</string>
+    <string name="organizations">Organizations</string>
+    <string name="followers">Followers</string>
+    <string name="jumlah_followers">Jumlah_followers</string>
+    <string name="following">Following</string>
+    <string name="jumlah_repository">jumlah_repository</string>
+    <string name="repository">Repository</string>
+    <string name="jumlah_following">jumlah_following</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="favorite">Favorite</string>
+</resources>
